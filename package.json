@@ -8,7 +8,6 @@
     "test": "jest"
   },
   "author": "LibreNav",
-  "main": "index.html",
   "license": "MIT",
   "dependencies": {
     "@headlessui/react": "^1.7.17",
