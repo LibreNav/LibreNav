@@ -7,8 +7,8 @@
     "build": "parcel build index.html",
     "test": "jest"
   },
-  "main": "index.js",
   "author": "LibreNav",
+  "main": "index.html",
   "license": "MIT",
   "dependencies": {
     "@headlessui/react": "^1.7.17",
